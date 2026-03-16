@@ -104,7 +104,7 @@ https://www.kaggle.com/datasets/Cornell-University/arxiv
 
 | Environment | Sample | Nodes | Top Author | Iterations |
 |-------------|--------|-------|------------|------------|
-| Google Colab | 5% | ~43,000 | Y. Zhang | 37 |
+| Google Colab | 5% | ~43,000 | Y. Zhang | 36 |
 | Local (Apple Silicon) | 5% | 7,444 | John Ellis | 42 |
 | Local | 10% | — | Y. Li | — |
 | Local | 15% | — | Y. Zhang | — |
