@@ -11,7 +11,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HH187zaOejIBwTjkZXWkcCKWb0hHy11E?usp=sharing)
 
 
-Replace the existing badge line in your README with this one. This links directly to your specific Colab notebook rather than going through GitHub, so anyone who clicks it will open your exact notebook.
+
 ---
 
 ## Overview
