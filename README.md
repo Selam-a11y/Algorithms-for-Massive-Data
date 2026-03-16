@@ -70,8 +70,7 @@ sample_fraction = 0.10  # change to 0.15, 0.20, or 0.25 as needed
 ```
 
 Note that higher sample fractions require more memory and longer runtime.
-At 25% on Apple Silicon with 16 GB RAM, expect approximately 2–3 hours
-for the PageRank loop to converge.
+
 
 ---
 
