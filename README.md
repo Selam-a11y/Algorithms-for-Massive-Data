@@ -11,7 +11,10 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HH187zaOejIBwTjkZXWkcCKWb0hHy11E?usp=sharing)
 
 
+## Report
 
+The full project report is in `Report_Ali_SelamMahmud.pdf`.
+[View the full report (PDF)](Report_Ali_SelamMahmud.pdf)
 ---
 
 ## Overview
@@ -128,7 +131,4 @@ See Section 7.5 of the report for a full discussion.
 
 ---
 
-## Report
 
-The full project report is in `Report_Ali_SelamMahmud.pdf`.
-[View the full report (PDF)](Report_Ali_SelamMahmud.pdf)
