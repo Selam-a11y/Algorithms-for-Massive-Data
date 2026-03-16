@@ -49,7 +49,7 @@ environment or sample size.
 ## How to Run Locally
 
 
-The local notebook is available in `LinkAnalysisProject_JNotebook.ipynb`.
+The local notebook is available in `LinkAnalysisProject_JNotebook.ipynb` in the folder above.
 
 1. Install dependencies:
 ```bash
