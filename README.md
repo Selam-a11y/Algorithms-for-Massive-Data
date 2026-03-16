@@ -14,7 +14,7 @@
 
 ## Report
 
-[View the full report (PDF)](Report_Ali_SelamMahmud.pdf)
+[View the full report (PDF)](https://github.com/Selam-a11y/Algorithms-for-Massive-Data/blob/main/Report_Ali_SelamMahmu.pdf)
 ---
 
 ## Overview
