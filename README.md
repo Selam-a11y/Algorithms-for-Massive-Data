@@ -29,25 +29,6 @@ environment or sample size.
 
 ---
 
-## Repository Structure
-
-```
-.
-├── Algorithms_Project_Colab.ipynb   ← Main notebook (run on Google Colab)
-├── Algorithms_Project.py            ← Local Python script version
-├── report/
-│   ├── Algorithms_Project_Final.tex ← LaTeX source
-│   └── Algorithms_Project_Final.pdf ← Compiled report
-├── images/
-│   ├── collabgraph.png              ← Colab 5% network graph
-│   ├── network_graph.png            ← Local 5% network graph
-│   ├── network_10.png               ← Local 10% network graph
-│   ├── network_25.png               ← Local 25% network graph
-│   ├── pipeline_top.png             ← RDD pipeline diagram part 1
-│   ├── pipeline_bottom.png          ← RDD pipeline diagram part 2
-│   └── categories_overview.png      ← arXiv categories overview
-└── README.md
-```
 
 ---
 
@@ -69,6 +50,9 @@ environment or sample size.
 
 ## How to Run Locally
 
+
+The local notebook is available in `LinkAnalysisProject_JNotebook.ipynb`.
+
 1. Install dependencies:
 ```bash
 pip install pyspark findspark kaggle networkx matplotlib
@@ -80,10 +64,17 @@ export KAGGLE_USERNAME=your_username
 export KAGGLE_KEY=your_api_key
 ```
 
-3. Run the script:
-```bash
-python Algorithms_Project.py
+3. Open the notebook and run all cells in order.
+
+To reproduce the scaling analysis at different sample fractions (10%, 15%,
+20%, 25%), change the `sample_fraction` variable in the data loading cell:
+```python
+sample_fraction = 0.10  # change to 0.15, 0.20, or 0.25 as needed
 ```
+
+Note that higher sample fractions require more memory and longer runtime.
+At 25% on Apple Silicon with 16 GB RAM, expect approximately 2–3 hours
+for the PageRank loop to converge.
 
 ---
 
