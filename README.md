@@ -29,9 +29,6 @@ environment or sample size.
 
 ---
 
-
----
-
 ## How to Run on Google Colab
 
 1. Click the **Open in Colab** badge above
