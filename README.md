@@ -14,6 +14,7 @@
 
 ## Report
 
+[View the full report (PDF)](./Report_Ali_SelamMahmud.pdf)
 The full project report is in `Report_Ali_SelamMahmud.pdf`.
 [View the full report (PDF)](Report_Ali_SelamMahmud.pdf)
 ---
