@@ -10,6 +10,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HH187zaOejIBwTjkZXWkcCKWb0hHy11E?usp=sharing)
 
+[View the full report (PDF)](https://github.com/Selam-a11y/Algorithms-for-Massive-Data/edit/main/Report_Ali_SelamMahmud.pdf)
 
 ## Report
 
