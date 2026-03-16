@@ -131,3 +131,4 @@ See Section 7.5 of the report for a full discussion.
 ## Report
 
 The full project report is in `Report_Ali_SelamMahmud.pdf`.
+[View the full report (PDF)](Report_Ali_SelamMahmud.pdf)
