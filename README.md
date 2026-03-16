@@ -7,8 +7,9 @@
 **Supervisor:** Prof. Dario Malchiodi — A.Y. 2025/2026
 
 ---
+This is the link:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Algorithms_Project_Colab.ipynb)
+https://colab.research.google.com/drive/1HH187zaOejIBwTjkZXWkcCKWb0hHy11E?usp=sharing
 
 ---
 
