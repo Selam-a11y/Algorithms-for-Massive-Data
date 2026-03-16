@@ -10,16 +10,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HH187zaOejIBwTjkZXWkcCKWb0hHy11E?usp=sharing)
 
-[View the full report (PDF)](https://github.com/Selam-a11y/Algorithms-for-Massive-Data/edit/main/Report_Ali_SelamMahmud.pdf)
+
 
 ## Report
-## Report
-[View the full report (PDF)](Report_Ali_SelamMahmud.pdf)
 
-
-
-[View the full report (PDF)](./Report_Ali_SelamMahmud.pdf)
-The full project report is in `Report_Ali_SelamMahmud.pdf`.
 [View the full report (PDF)](Report_Ali_SelamMahmud.pdf)
 ---
 
